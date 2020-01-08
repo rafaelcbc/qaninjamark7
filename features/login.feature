@@ -6,6 +6,7 @@ Funcionalidade: Login
     Sendo um usuário
     Posso acessar o sistema com meu email e senha previamente cadastrados.
 
+    @temp
     Cenário: Usuário deve ser autorizado
 
         Dado que eu acesso a página principal
